@@ -1,0 +1,26 @@
+
+.cover-image #carouselExampleIndicators{
+    background-color: rgba(0, 0, 0, 0.6);
+    background-size: 100% 100%;
+  
+}
+.cover-image #carouselExampleIndicators img{
+    opacity: .6;
+ 
+}
+.cover-image .navbar-brand .brand_logo{
+    height: 50px;
+}
+.cover-image .navbar-dark .navbar-nav .nav-link{
+    color: #fff;
+    font-weight: 600;
+}
+.cover-image .navbar-dark .navbar-nav .nav-link:hover{
+    color: #fffb00;
+}
+.cover-image .navbar-dark .navbar-nav .active{
+      border-bottom: 3px solid #fffb00;
+}
+.cover-image .navbar-dark .navbar-nav .active>.nav-link{
+    color: #fffb00;
+}
