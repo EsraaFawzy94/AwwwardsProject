@@ -1,0 +1,242 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: "segoe ui light";
+}
+
+.home
+{
+    height: 570px;
+    background-image: url("images/shutterstock_277750193.jpg");
+    background-size: 100% 100%;
+}
+
+.home .navbar
+{
+    background-color: rgba(0,0,0,0.5);
+    overflow: hidden;
+}
+
+.home .navbar li a
+{
+    text-decoration: none;
+}
+
+.home .navbar li a img
+{
+    width: 50px;
+    height: 50px;
+}
+
+.home .navbar ul li
+{
+    float: left;
+    
+    padding: 10px 20px;
+    
+}
+
+
+.home .navbar .logo
+{
+    float: left;
+    border: none;
+    padding: 0px;
+}
+
+.home .navbar .x
+{
+    float: right;
+}
+
+.home .navbar ul
+{
+    list-style-type: none;
+}
+
+.home .navbar a
+{
+    color: white;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.caption
+{
+    padding: 50px 0px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.caption p
+{
+    font-family: 'Dancing Script', cursive;
+}
+
+.btn
+{
+    text-align: center;
+}
+
+.btn button
+{
+    padding: 10px 20px;
+    border: none;
+    background-color: white;
+}
+
+
+.btn .btn1
+{
+    background-color: #c1ab84;
+}
+
+/* about */
+
+.chef
+{
+    width: 40%;
+    float: left;
+    background-color: red;
+}
+
+
+.chef img
+{
+    width: 100%;
+}
+
+.chef-content
+{
+    width: 60%;
+    float: left;
+    padding-top: 150px;
+    text-align: center;
+    
+}
+
+.chef-content h3
+{
+    color: #f2ce08;
+    font-weight: 400;
+    font-family: 'Dancing Script', cursive;
+    font-size: 28px;
+}
+
+
+
+.chef-content p
+{
+    color: #868686;
+    font-size: 18px;
+}
+
+
+
+
+.chef-content button
+{
+    border: 1px solid black;
+    padding: 10px 20px;
+    background-color: white;
+    text-transform: uppercase;
+    
+}
+
+/* test */
+
+.clr
+{
+    clear: both;
+}
+
+.test
+{
+    height: 300px;
+    background-image: url("images/bgs.jpg");
+    background-attachment: fixed;
+}
+
+.meals
+{
+    padding: 30px 20px;
+    
+    text-align: center;
+}
+
+.meals .meal
+{
+    width: 23%;
+   display: inline-block;
+    text-align: center;
+}
+.meals .meal img
+{
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+
+.brd
+{
+    width: 20%;
+    height: 2px;
+   
+    background-color: black;
+  
+     margin:20px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+.y
+{
+    width: 20%;
+    height: 300px;
+    background-image: url("../images/one.jpg");
+    background-size: 100% 100%;
+    float: left;
+    border: 3px solid red;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+*/
